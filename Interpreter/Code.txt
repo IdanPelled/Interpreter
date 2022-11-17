@@ -1,0 +1,10 @@
+age = 19
+valid = age > 18
+
+if valid {
+	message = "ENTER"
+}
+
+else {
+	message = "LEAVE"
+}
